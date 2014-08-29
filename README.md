@@ -1,4 +1,2 @@
-ddns-freedns-afraid-org
-=======================
-
-ddns-client plugin for freedns.afraid.org
+## Dynamic dns client
+Work in progress
