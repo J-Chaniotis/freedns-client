@@ -1,0 +1,34 @@
+{
+  "name": "ddns-freedns-afraid-org",
+  "version": "1.0.0",
+  "description": "ddns-client plugin for freedns.afraid.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://J-Chaniotis@github.com/J-Chaniotis/ddns-freedns-afraid-org.git"
+  },
+  "keywords": [
+    "freedns.afraid.org",
+    "ddns-client",
+    "dynamic",
+    "dns",
+    "plugin"
+  ],
+  "author": "J.Chaniotis <j.k.chaniotis@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-Chaniotis/ddns-freedns-afraid-org/issues"
+  },
+  "homepage": "https://github.com/J-Chaniotis/ddns-freedns-afraid-org",
+  "dependencies": {
+    "request": "^2.40.0",
+    "revalidator": "^0.2.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
