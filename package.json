@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/J-Chaniotis/ddns-freedns-afraid-org",
   "dependencies": {
-    "ajv": "^6.2.1",
+    "freedns-api": "^1.0.0",
     "ip-monitor": "^1.0.0",
-    "simple-get": "^2.7.0"
+    "modern-syslog": "^1.1.4"
   },
   "devDependencies": {}
 }
