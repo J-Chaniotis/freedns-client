@@ -1,7 +1,7 @@
 {
-  "name": "ddns-freedns-afraid-org",
+  "name": "freedns-client",
   "version": "2.0.0",
-  "description": "ddns-client plugin for freedns.afraid.org",
+  "description": "client for freedns.afraid.org",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
